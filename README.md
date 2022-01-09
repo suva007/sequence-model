@@ -29,3 +29,4 @@
 - https://keras.io/examples/
 - https://www.kaggle.com/faressayah/stock-market-analysis-prediction-using-lstm
 - https://www.tensorflow.org/guide/keras/rnn
+## :wink: Thanks
